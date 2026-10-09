@@ -11,7 +11,7 @@ img{max-width:100%;display:block}
 .container{max-width:1180px;margin:auto;padding:0 28px}
 header{background:rgba(250,249,246,.96);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20;backdrop-filter:blur(12px)}
 nav{height:82px;display:flex;align-items:center;justify-content:space-between;gap:28px}
-.logo{display:flex;align-items:center}.logo img{width:175px;height:auto}
+.logo{display:flex;align-items:center}.logo img{width:110px;height}
 .navlinks{display:flex;gap:30px;font-size:14px;font-weight:700}
 .navlinks a:hover{color:#e26f2d}
 .navcta{background:var(--black);color:#fff;padding:12px 19px;border-radius:999px;font-size:13px;font-weight:800}
